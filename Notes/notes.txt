@@ -1,0 +1,59 @@
+SQL
+
+day1:-
+
+create database
+use database
+data types
+insert table
+display/show data
+delete/truncate/drop
+alter
+update
+rename column name - --exec sp_rename 'table.com' , 'new_col'
+
+day2:
+
+Operators
+aggregation function
+group by
+having
+order by
+-- order of operation at frontend
+select
+from
+where
+group by
+having
+order by
+-- order of operation at backend
+from
+where
+group by
+having
+select
+order by
+
+day3:
+
+distinct
+top N
+case when
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

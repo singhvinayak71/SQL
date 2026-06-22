@@ -1,0 +1,68 @@
+SQL
+day1:
+1. how to create database
+2. to use database
+3. to create a table
+4. to insert the rows into the table
+5. to delete the row or number of rows
+6. delete all the rows from the table
+7. to delete the complete table from the database
+8. to add or remove any column
+9. to rename to column
+
+day2:
+1. find the data for central region
+2. find the data where state is not Texas
+3. find the sales grater then 200
+4. find the order where profit is less than 20
+5. find the costumers whose sales is less then equal to 500
+6. find the custumers whose sales is grater then equal to 1000
+7. find the customers who have placed order in - New York, California, florida, Arizona
+8. find the customers who have placed order other than New York, California, florida, Arizona
+9. find the costumers who are in east region and their segment is consumer
+10. find the costumers who are in state florida or California
+11. find the sales between 500 to 700, profit less than 0, region is east
+12. names starting with A
+13. names ending with G
+14. name that contain N in it
+15. name that contain 10 characters
+16. name that has N at second position
+17. name that contaion any vowel
+18. name that contains X and T
+19. first name ending with D and last name ending with N
+20. find the total sales
+21. find the average profit
+22. find the max discount
+23. find the min sales
+24. find the total number of rows
+
+
+day3:
+1. find the name of the product with maximam sales
+2. how many unique orders are placed in central and east region
+3. find ship mode wise orders placed
+4. find the total orders placed in 2016
+5. find the total sales each category and sub-category wise
+6. find the names that has 2 words
+7. find the state whose postal codes start with 9
+8. find the products whose total quantity sold is more than 50 in central region
+9. show customers with their total sales, average profit, total quantity
+10. find the state names that has I, O, A
+11. if postal code start with 8 or 9 then opta
+--if postal code starts with 1,2,3,4 then optb
+--else optc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
