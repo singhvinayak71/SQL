@@ -16,18 +16,18 @@ day2:
 3. find the sales grater then 200
 4. find the order where profit is less than 20
 5. find the costumers whose sales is less then equal to 500
-6. find the custumers whose sales is grater then equal to 1000
-7. find the customers who have placed order in - New York, California, florida, Arizona
-8. find the customers who have placed order other than New York, California, florida, Arizona
+6. find the costumers whose sales is grater then equal to 1000
+7. find the customers who have placed order in - New York, California, Florida, Arizona
+8. find the customers who have placed order other than New York, California, Florida, Arizona
 9. find the costumers who are in east region and their segment is consumer
-10. find the costumers who are in state florida or California
+10. find the costumers who are in state Florida or California
 11. find the sales between 500 to 700, profit less than 0, region is east
 12. names starting with A
 13. names ending with G
 14. name that contain N in it
 15. name that contain 10 characters
 16. name that has N at second position
-17. name that contaion any vowel
+17. name that contain any vowel
 18. name that contains X and T
 19. first name ending with D and last name ending with N
 20. find the total sales
@@ -38,7 +38,7 @@ day2:
 
 
 day3:
-1. find the name of the product with maximam sales
+1. find the name of the product with maximum sales
 2. how many unique orders are placed in central and east region
 3. find ship mode wise orders placed
 4. find the total orders placed in 2016
@@ -48,10 +48,97 @@ day3:
 8. find the products whose total quantity sold is more than 50 in central region
 9. show customers with their total sales, average profit, total quantity
 10. find the state names that has I, O, A
-11. if postal code start with 8 or 9 then opta
---if postal code starts with 1,2,3,4 then optb
---else optc
+11. if postal code start with 8 or 9 then opt a
+--if postal code starts with 1,2,3,4 then opt b
+--else opt c
 
+
+day4:
+1. list all products along with their categories and producers
+2. find the total sales amount for each product along with its producers
+3. list all the products along with their categories including products that do not belong to any category
+4. for each product show its name, price, producer name and category name
+
+Day 6:
+1. find the manager name of the each employee
+2. find the employees working under "Parul"
+3. find the employees who are manager
+4. find employees who do not have manager
+5. find the employees earning more than their manager
+6. find the employee working in the same dept
+7. find the employee reporting to the same manager
+
+Day 7:
+1. find the employee reporting to the same manager
+2. find the unique row in each department
+
+Day 8:
+1. Assign a row number to each order within each region sorted by descending order
+2. Rank customers within each region by total sales
+3. Find the dense rank of each product by profit in each category
+4. for each order, find the next order date by same customer
+5. for each order, find the previous order's profit by the same customer
+6. calculate the running total of sales for each region by order date
+7. compute the cumulative average profit for each sub-category based on order date
+8. find the difference in sales between each order and the previous order for each customer
+9. find the employee who the join first in the dept
+10. find the last emp to join the dept
+
+Day 9:
+1. find the first product sold by orderdate in each region
+2. find the last product sold by order date in each segment
+3. Find each customer, find the first and last order dates
+4. divide the employee date into three based on highest to lowest salary, then generate a column where 1 specifics highest paid, 2 as average paid, 3 as lowest paid
+
+5. Find the employee who is earning more than average salary
+6. find the dept whose average salary is grater then overall average salary
+
+
+Day 10:
+1. find the region whose avg sales is grater than over all avg sales
+2. find the third highest sales in each region
+3. find the third highest sales in each region
+4. find top 3 profit per segment 
+5. find the latest order per customers
+6. find top 5 customers by sales
+
+Day 11:
+
+Day 12:
+1. find the customer who paid higher sales
+2. find the region whose sales is grater than avg sales of that particular region
+3. find the employee whose salary is grater than dept avg salary
+4. find the profit whose profit is greater than avg profit of their category
+5. find the employee who earn the highest salary in their department
+6. find customer who placed at least one order in every month
+7. find customer who placed at least 10 orders in the year
+8. find the employees who earn more than at least one employee in another dept
+9. find the duplicate salaries using correlated subquery
+10. find second highest salary
+11. find third highest salary
+12. find the employee working in the same employee as Mohan
+
+Day 13: 
+1. find the employee whose salary is grater than the salary of all emps in HR dept
+2. find the employee whose salary is grater than the salary of any emps in admin dept
+3. find the dept with more than 3 employees
+4. find the employee whose salary is unique in their department
+5. find year, region, total profit as pivot table
+6. region, segment, average sales
+7. find the customer with east region and sales in greater than 500 with stored procedure
+
+Day 14:
+1. find the employee who logged in 3 or more consecutive days
+2. find the customers who have placed order in any first 3 months and not in last 9 months
+3. find the customers who have placed order in all first 3 months and not in last 9 months
+
+Day 15:
+1. show total sales per salesperson for each quarter for each quarter
+2. increase salary by 20% for employees earning below their dept avg
+3. find the total sales and the number of orders for each region where the orders were returned
+4. identify the product category with the highest return rate
+5. find the customers with more than 20% return rate
+6. find highest, lowest, median sales from orders
 
 
 
